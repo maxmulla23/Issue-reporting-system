@@ -437,19 +437,19 @@
     ]
   },
   "packageFolders": {
-    "/home/mulla/.nuget/packages/": {}
+    "/home/maxmulla/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mulla/Desktop/final_Project/final_Project.csproj",
+      "projectUniqueName": "/home/maxmulla/Desktop/school project/final_Project.csproj",
       "projectName": "final_Project",
-      "projectPath": "/home/mulla/Desktop/final_Project/final_Project.csproj",
-      "packagesPath": "/home/mulla/.nuget/packages/",
-      "outputPath": "/home/mulla/Desktop/final_Project/obj/",
+      "projectPath": "/home/maxmulla/Desktop/school project/final_Project.csproj",
+      "packagesPath": "/home/maxmulla/.nuget/packages/",
+      "outputPath": "/home/maxmulla/Desktop/school project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/mulla/.nuget/NuGet/NuGet.Config"
+        "/home/maxmulla/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -491,7 +491,15 @@
         "warn": true,
         "downloadDependencies": [
           {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
             "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
             "version": "[6.0.25, 6.0.25]"
           }
         ],
@@ -503,7 +511,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

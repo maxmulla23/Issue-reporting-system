@@ -30,3 +30,36 @@
 /home/mulla/Desktop/final_Project/obj/Debug/net6.0/final_Project.pdb
 /home/mulla/Desktop/final_Project/obj/Debug/net6.0/final_Project.genruntimeconfig.cache
 /home/mulla/Desktop/final_Project/obj/Debug/net6.0/ref/final_Project.dll
+/home/maxmulla/Desktop/school project/bin/Debug/net6.0/appsettings.Development.json
+/home/maxmulla/Desktop/school project/bin/Debug/net6.0/appsettings.json
+/home/maxmulla/Desktop/school project/bin/Debug/net6.0/final_Project
+/home/maxmulla/Desktop/school project/bin/Debug/net6.0/final_Project.deps.json
+/home/maxmulla/Desktop/school project/bin/Debug/net6.0/final_Project.runtimeconfig.json
+/home/maxmulla/Desktop/school project/bin/Debug/net6.0/final_Project.dll
+/home/maxmulla/Desktop/school project/bin/Debug/net6.0/final_Project.pdb
+/home/maxmulla/Desktop/school project/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/maxmulla/Desktop/school project/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/maxmulla/Desktop/school project/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/maxmulla/Desktop/school project/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/final_Project.csproj.AssemblyReference.cache
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/final_Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/final_Project.AssemblyInfoInputs.cache
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/final_Project.AssemblyInfo.cs
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/final_Project.csproj.CoreCompileInputs.cache
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/final_Project.MvcApplicationPartsAssemblyInfo.cs
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/final_Project.MvcApplicationPartsAssemblyInfo.cache
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/final_Project.sourcelink.json
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/staticwebassets.build.json
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/staticwebassets.development.json
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/staticwebassets/msbuild.final_Project.Microsoft.AspNetCore.StaticWebAssets.props
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/staticwebassets/msbuild.build.final_Project.props
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.final_Project.props
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.final_Project.props
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/staticwebassets.pack.json
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/scopedcss/bundle/final_Project.styles.css
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/final_Project.csproj.CopyComplete
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/final_Project.dll
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/refint/final_Project.dll
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/final_Project.pdb
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/final_Project.genruntimeconfig.cache
+/home/maxmulla/Desktop/school project/obj/Debug/net6.0/ref/final_Project.dll
