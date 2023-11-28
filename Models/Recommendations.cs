@@ -7,4 +7,7 @@ public class Recommendations
     public string? RecDescription { get; set; }
     public DateTime CreationDate { get; set; }
 
+    public int UserId { get; set; }
+    public User? User{ get; set; }
+
 }

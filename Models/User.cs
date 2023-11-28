@@ -2,7 +2,7 @@ namespace IssueReport.Models;
 
 public class User
 {
-    public int Id { get; set; }
+    public int UserId { get; set; }
     public string? Firstname { get; set; }
 
     public string? LastName { get; set; }
@@ -11,4 +11,6 @@ public class User
     
     public int UserRoleId { get; set; }
     public UserRole? UserRole { get; set; }
+    public ICollection<BugIssue>? BugIssues { get; set; }
+    public ICollection<Recommendations>? Recommendations { get; set; }
 }
